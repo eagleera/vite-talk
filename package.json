@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.8.1",
+    "@slidev/theme-seriph": "^0.7.0",
+    "playwright-chromium": "^1.11.0"
+  },
+  "name": "vite-new-kid"
+}
